@@ -1,0 +1,33 @@
+/* The Carousel width */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+ }
+
+.form-control{
+    padding: 20px 20px;
+    border-radius: 0px;
+}   
+
+#btnl{
+    padding: 10px 10px;
+    border-radius:  0px;
+    background-color: #0275d8;
+    border-color: #0275d8;
+}
+
+#myModal{
+    top: 15%;
+}
+
+.card {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.card-img-top {
+    width: 40%;
+    border-radius: 50%;
+}
